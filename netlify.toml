@@ -1,0 +1,2 @@
+[template.environment]
+MEDUSA_BACKEND_URL="https://b2b-marketplace-backend.herokuapp.com/"
