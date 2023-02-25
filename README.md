@@ -36,8 +36,8 @@ Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) 
 
 1. **Clone this repository**
    ```
-   git clone https://github.com/stream-protocol/b2b-marketplace/b2b-admin medusa-admin
-   cd medusa-admin
+   git clone https://github.com/stream-protocol/b2b-marketplace/b2b-admin
+   cd b2b-admin
    ```
 2. **Install dependencies**
    ```
@@ -49,7 +49,7 @@ Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) 
    ```
 4. **Go to [http://localhost:7000](http://localhost:7000)**
 
-Back in your Medusa engine installation directory, you can create your own user for the admin by running:
+Back in your e-commerce engine installation directory, you can create your own user for the admin by running:
 
 ```
 medusa user -e some@email.com -p some-password
@@ -61,7 +61,7 @@ admin@medusa-test.com // supersecret
 
 ### Features
 
-You can learn about all of the ecommerce features that Medusa provides [in our documentation](https://docs.medusajs.com/introduction#features).
+You can learn about all of the ecommerce features that StreamPay b2b e-commerce provides [in our documentation](https://docs.medusajs.com/introduction#features).
 
 ## Contributions
 
@@ -69,7 +69,7 @@ Please check [our contribution guide](https://github.com/stream-protocol/b2b-ma
 
 ## Repository structure
 
-The Medusa repository is a mono-repository managed using Lerna. Lerna allows us to have all Medusa packages in one place, and still distribute them as separate NPM packages.
+The b2b marketplace repository is a mono-repository managed using Lerna. Lerna allows us to have all e-commerce packages in one place, and still distribute them as separate NPM packages.
 
 ## Licensed
 
